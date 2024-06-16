@@ -1,0 +1,16 @@
+{
+  "name": "hono",
+  "version": "1.0.0",
+  "description": "<html>\r   <img src=\"/assets/hono-banner.png\" alt=\"\" width=\"100%\"/>\r </html>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.24.0"
+  }
+}
